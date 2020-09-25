@@ -1,0 +1,6 @@
+target/*
+core-test-framework.iml
+.idea/*
+
+**/.DS_Store
+
