@@ -7,6 +7,5 @@ Feature: Get Expected Sum
 
     Examples:
       | first  | second | button | output |
-      | 1      | 4      |  add   |   5    |
       | 5      | 3      |  add   |   8    |
       | 5      | 13     |  add   |   18   |
