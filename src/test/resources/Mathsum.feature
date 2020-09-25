@@ -9,3 +9,5 @@ Feature: Get Expected Sum
       | first  | second | button | output |
       | 5      | 3      |  add   |   8    |
       | 5      | 13     |  add   |   18   |
+      | 6      | 3      |  add   |  10    |
+      
