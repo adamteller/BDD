@@ -3,4 +3,5 @@ core-test-framework.iml
 .idea/*
 
 **/.DS_Store
+**/allure-results
 
